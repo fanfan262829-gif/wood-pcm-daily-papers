@@ -1,0 +1,60 @@
+{
+  "paths": {
+    "obsidian_vault": "~/Library/Mobile Documents/com~apple~CloudDocs/Fan's \"the mind\"",
+    "paper_notes_folder": "论文笔记",
+    "daily_papers_folder": "DailyPapers",
+    "concepts_folder": "_概念",
+    "zotero_db": "~/Zotero/zotero.sqlite",
+    "zotero_storage": "~/Zotero/storage"
+  },
+  "daily_papers": {
+    "keywords": [
+      "phase change materials",
+      "wood-based composite",
+      "thermal management",
+      "thermal conductivity",
+      "interfacial thermal resistance",
+      "directional heat conduction",
+      "wood cellulose",
+      "boron nitride",
+      "delignified wood",
+      "thermal energy storage"
+    ],
+    "negative_keywords": [
+      "clinical trial",
+      "drug therapy",
+      "surgery",
+      "patient treatment",
+      "gene expression",
+      "protein structure",
+      "natural language processing",
+      "large language model",
+      "robotics",
+      "autonomous driving"
+    ],
+    "domain_boost_keywords": [
+      "balsa wood",
+      "biomass material",
+      "phase change gel",
+      "double-network gel",
+      "anisotropic",
+      "hydrogen bond",
+      "flame retardant",
+      "electronic device cooling",
+      "battery thermal management",
+      "wood porous structure"
+    ],
+    "min_score": 2,
+    "top_n": 10
+  },
+  "researcher": {
+    "email": "fanfan262829@gmail.com",
+    "direction": "木材科学与技术—家具设计与工程方向，聚焦木基相变热管理材料的构筑及界面热传输调控机制研究",
+    "semantic_scholar_api_key": ""
+  },
+  "automation": {
+    "auto_refresh_indexes": true,
+    "git_commit": false,
+    "git_push": false
+  }
+}
